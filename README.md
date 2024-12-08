@@ -1,3 +1,5 @@
+Outlook Combo Editor
+
 This Python script filters a text file to keep only Microsoft-related email addresses (e.g., @outlook.com, @hotmail.com, @microsoft.com) while keeping any extra information attached to the emails. It also removes duplicates and empty lines for a clean output.
 
 Features:
